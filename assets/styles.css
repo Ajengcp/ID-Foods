@@ -612,4 +612,9 @@ footer {
   .numberDisplay2{
     width: 15%;
   }
+
+  .ajeng-img{
+    width: 150px;
+    margin: 2% 24%;
+  }
 }
